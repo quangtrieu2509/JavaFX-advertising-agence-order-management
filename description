@@ -1,0 +1,10 @@
+                                  Program description
+An advertising company specializes in installing large advertising signs for clients. According to the company's requirements, for each order, the installation cost depends 
+on the unit price, area and style of the billboard. The company currently provides customers with 3 main billboard designs: Rectangle board, circle board and triangle board. 
+For non-rectangle billboards, the installation cost will increase by VND 500,000 per billboard. The following simulation program will meet the company's need to manage all 
+orders, making it easier for the company to manage activities related to order manipulation. The program includes the following specific functions: 
+  - Allow displaying to the user a list of company orders. 
+  - Add, remove and update an order. 
+  - Search for orders by customer name, address, type of billboard design. 
+  - Statistics of orders with an area or installation cost greater than a specific number. The program is designed according to a simple graphical interface that makes it 
+  easier for users to use and manipulate. And follow the code inside for more details about the program.
